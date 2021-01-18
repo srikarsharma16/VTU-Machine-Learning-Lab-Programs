@@ -1,4 +1,4 @@
-# Machine-Learning-Lab-Programs
+# VTU CBCS Machine-Learning-Lab-Programs
 2017 CBCS Machine Learning Lab Programs
 MACHINE LEARNING LABORATORY
 [As per Choice Based Credit System (CBCS) scheme]
